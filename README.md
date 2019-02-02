@@ -1,2 +1,2 @@
 # fdc
-for fdc vit
+this is for facebook developers circle 
